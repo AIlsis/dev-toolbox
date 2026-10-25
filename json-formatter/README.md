@@ -1,15 +1,12 @@
-# JSON Formatter
+# 开发者工具箱
 
-免费、快速、开源的JSON格式化工具
+免费、快速、开源的开发者工具集合
 
 ## 功能特性
 
-- ✅ JSON格式化与美化
-- ✅ JSON语法校验与错误定位
-- ✅ JSON压缩
-- ✅ JSON转义/反转义
-- ✅ 一键复制
-- ✅ 完全免费、开源
+- ✅ **JSON格式化** - 格式化、校验、压缩、转义
+- ✅ **二维码生成** - 输入文本生成SVG二维码
+- ✅ **Markdown编辑** - 实时预览、HTML输出、下载
 
 ## 技术栈
 
@@ -33,11 +30,11 @@ npm test
 npm run build
 ```
 
+## 联系方式
+
+- 📧 邮箱：3180667760@qq.com
+- 💬 微信：w168518hq
+
 ## 开源协议
 
 MIT License
-
-## 链接
-
-- 在线访问: https://your-username.github.io/json-formatter/
-- GitHub: https://github.com/your-username/json-formatter
